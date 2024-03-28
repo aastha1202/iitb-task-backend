@@ -13,5 +13,4 @@
 - GET /students/query?name=''&fromDate=''&toDate='' - Get filtered student details
 - GET /students/:reportId - Get details of a student report
 
-
-  
+The `info.log` file stores details about API response Time, request IDs, method,and response. 
